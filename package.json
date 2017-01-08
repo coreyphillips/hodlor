@@ -1,0 +1,35 @@
+{
+  "name": "hodlor-lang",
+  "version": "1.0.2",
+  "description": "Hodlor hodlor hodlor hodlor hodlor hodlor.",
+  "main": "hodlor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreyphillips/hodlor.git"
+  },
+  "keywords": [
+    "hodlor",
+    "hodlor",
+    "hodlor",
+    "hodlor"
+  ],
+  "author": "Hodlor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyphillips/hodlor/issues"
+  },
+  "bin": {
+    "hodlor": "./bin/hodlor",
+    "js2hdl": "./bin/js2hdl"
+  },
+  "homepage": "https://github.com/coreyphillips/hodlor",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.7.1",
+    "express": "^4.12.3",
+    "pkginfo": "^0.3.0"
+  }
+}
